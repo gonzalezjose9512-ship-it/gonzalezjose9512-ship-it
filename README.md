@@ -1,5 +1,5 @@
 # 💫 About Me:
-Telecomunicaciones<br>Programador junior <br>
+Tecnico Especializado en Electronica<br>Telecomunicaciones<br>Programador en proceso<br>UTN FRT<br> 
 
 
 # 💻 Tech Stack:
