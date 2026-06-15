@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tecnico Especializado en Electronica<br>Telecomunicaciones<br>Programador en proceso<br>UTN FRT<br> 
+Tecnico Especializado en Electronica<br>Tecnico CCTV<br>Telecomunicaciones<br>Soporte Tecnico IT<br>Programador en proceso<br>UTN FRT<br> 
 
 
 # 💻 Tech Stack:
